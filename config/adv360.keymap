@@ -39,7 +39,7 @@
 
         default_layer {
             bindings = <
- &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp PG_DN  &kp PG_UP           &kp INS        &kp N0                &kp GRAVE                                                                                      &kp K_APP         &kp N0        &kp HOME    &kp UP_ARROW          &kp END  &kp RIGHT_BRACKET  &kp RIGHT_PARENTHESIS
+ &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp PG_DN  &kp PG_UP           &kp INS         &mo 4                &kp GRAVE                                                                                      &kp K_APP          &mo 4        &kp HOME    &kp UP_ARROW          &kp END  &kp RIGHT_BRACKET  &kp RIGHT_PARENTHESIS
        &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp EQUAL  &kp MINUS  &kp SINGLE_QUOTE  &kp LEFT_ALT            &kp LEFT_META                                                                                 &kp RIGHT_META  &kp RIGHT_ALT  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp RIGHT_CONTROL        &kp RIGHT_SHIFT
                 &kp W             &kp Q      &kp F      &kp P             &kp B       &kp ESC                  &kp DEL          &kp N0         &kp N0                         &kp N0           &kp N0         &kp DEL        &kp ESC           &kp J           &kp L            &kp U              &kp Y          &kp SEMICOLON
                 &kp A             &kp R      &kp S      &kp T             &kp G       &kp TAB                    &none           &none      &kp ENTER   &none   &none      &kp ENTER            &none           &none        &kp TAB           &kp M           &kp N            &kp E              &kp I                  &kp O
